@@ -26,8 +26,6 @@ options being; a wedge, a circle, or whatever else I dream up
 * The shape of the buttons can be changed after the radial menu has been
 created
 * radial menu functionality will be built into an external library
-
-
 * options
   * number of commands. 2-10 for now
   * size will be defined by a inner and outer radius
