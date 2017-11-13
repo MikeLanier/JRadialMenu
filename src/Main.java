@@ -28,7 +28,7 @@ public class Main extends Application {
         double x = userPrefs.getDouble("stage.x", 100);
         double y = userPrefs.getDouble("stage.y", 100);
         double w = userPrefs.getDouble("stage.width", 800);
-        double h = userPrefs.getDouble("stage.height", 500);
+        double h = userPrefs.getDouble("stage.height", 600);
 
         primaryStage.setScene(scene);
         primaryStage.setX(x);
